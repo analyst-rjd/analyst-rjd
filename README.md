@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on dynamic web applications based on MERN stack. Willing to collaborate on any Javascript  based projects. 
+2nd year CS student building dynamic web applications. Eager to learn and collaborate on any project. 
 
 
 # 💻 Tech Stack:
